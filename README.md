@@ -1,3 +1,0 @@
-# LinuxTraining
-
-Welcome! :)
